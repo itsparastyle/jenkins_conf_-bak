@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.scm.CVSSCM_-DescriptorImpl plugin="cvs@2.11">
+  <generation>1</generation>
+  <compressionLevel>3</compressionLevel>
+  <privateKeyLocation>C:\Users\pc/.ssh/id_rsa</privateKeyLocation>
+  <privateKeyPassword>frl7R0bE57vBOXvbj7qTRw==</privateKeyPassword>
+  <knownHostsLocation>C:\Users\pc/.ssh/known_hosts</knownHostsLocation>
+  <authTokens/>
+  <changelogEncoding>UTF-8</changelogEncoding>
+</hudson.scm.CVSSCM_-DescriptorImpl>
